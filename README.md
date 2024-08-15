@@ -23,25 +23,21 @@ Before you begin, ensure you have the following installed on your local machine:
 - *Git* (for cloning the repository)
 
 
-# Installation
+## Installation
 
-## Frontend Setup
+To set up the project locally, follow these steps:
 
-1. *Clone the Repository:*
+### Frontend Setup
+
+1. Clone the Repository:
    bash
    git clone https://github.com/Hxnsaja/News-Portal.git
    cd news-website/frontend
-   
-2. *Install Dependencies:*
+
+2. *Frontend Setup*
+Install Dependencies:
    bash
-   npm install
-
-3. *Environment Variables:*
-*Create a .env file in the frontend directory with the following content:*
-env
-REACT_APP_API_BASE_URL=http://localhost:5000/api
-
-4. **
+  npm install
 
 
 
